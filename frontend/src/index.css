@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    min-height: 100%;
+    color: black;
+    background-color: wheat;
+}
